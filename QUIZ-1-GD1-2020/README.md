@@ -3,6 +3,5 @@ Link naar de online versie: [http://30044.hosts2.ma-cloud.nl/bewijzenmap/periode
 
 Foto: 
 ![alt text](http://30044.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/QUIZ-1-GD1-2020/Github.png"demo van de quiz")
-
 ## Bevat:
 1. Een aanpasbare json file.
