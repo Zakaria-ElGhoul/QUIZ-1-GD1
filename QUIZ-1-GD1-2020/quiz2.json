@@ -1,0 +1,61 @@
+{
+    "quizID": "Bleach Quiz",
+    "quizMetaData":
+    {
+        "title": "Bleach Quiz",
+        "imageURI": "https://de7i3bh7bgh0d.cloudfront.net/2020/03/18/21/33/26/62ae3fdd-0c22-4d6d-8d39-c21a4ff52ab2/Bleach_BlogSplash_1200x630.jpg"
+
+    },
+    "quizContent":
+    [ 
+        {   "question": "What is Kurosaki's name?",
+            "answers": [{
+                    "answer": "Ichigo",
+                    "feedback": true
+                },
+                {
+                    "answer": "Renji",
+                    "feedback": false
+                },
+                {
+                    "answer": "Henk",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "How many episodes does bleach have?",
+            "answers": [{
+                    "answer": "366",
+                    "feedback": true
+                },
+                {
+                    "answer": "63",
+                    "feedback": false
+                },
+                {
+                    "answer": "345",
+                    "feedback": false
+                },
+                {
+                    "answer": "365",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "What is Ichigo's bankai?",
+            "answers": [{
+                    "answer": "Tensa Zabimaru",
+                    "feedback": false
+                },
+                {
+                    "answer": "Zenbonzakura Kageyoshi",
+                    "feedback": false
+                },
+                {
+                    "answer": "Tensa Zangetsu",
+                    "feedback": true
+                }
+            ]
+        }
+    ]
+}
