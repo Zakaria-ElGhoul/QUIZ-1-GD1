@@ -2,6 +2,6 @@
 Link naar de online versie: [http://30044.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/QUIZ-1-GD1-2020/index.html](http://30044.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/QUIZ-1-GD1-2020/index.html)
 
 Foto: 
-![alt text](http://30044.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/QUIZ-1-GD1-2020/Github.png"demo van de quiz")
+![alt text](http://30044.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/QUIZ-1-GD1-2020/Github.png "Fotovan de quiz!")
 ## Bevat:
 1. Een aanpasbare json file.
