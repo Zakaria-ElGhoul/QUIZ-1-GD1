@@ -1,0 +1,72 @@
+{
+    "quizID": "Modern Warfare",
+    "quizMetaData":
+    {
+        "title": "Modern Warfare Quiz",
+        "imageURI": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/kronos/common/social-share/social-share-image.jpg"
+
+    },
+    "quizContent":		
+		[
+			{
+				"question": "Welke sniper is de sterkste?",
+				"answers": [{
+						"answer": "Dragunov",
+						"feedback": false
+					},
+					{
+						"answer": "AX-50",
+						"feedback": false
+					},
+					{
+						"answer": "HDR",
+						"feedback": true
+					}
+				]
+			},
+			{
+				"question": "Hoeveel kost een Loadout Drop?",
+				"answers": [{
+						"answer": "10000$",
+						"feedback": true
+					},
+					{
+						"answer": "5000$",
+						"feedback": false
+					},
+					{
+						"answer": "1000$",
+						"feedback": false
+					},
+					{
+						"answer": "500$",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Met hoeveel mensen begin je een potje?",
+				"answers": [{
+						"answer": "4 mensen",
+						"feedback": false
+					},
+					{
+						"answer": "10 mensen",
+						"feedback": false
+					},
+					{
+						"answer": "100 mensen",
+						"feedback": false
+					},
+					{
+						"answer": "150 mensen",
+						"feedback": true
+					},
+					{
+						"answer":"200 mensen",
+						"feedback":false
+					}
+				]
+			}
+		]
+	}
