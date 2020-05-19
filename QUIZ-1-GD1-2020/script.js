@@ -30,7 +30,7 @@ function initQuiz(){
   playerData.wrongAnswers = 0;
   playerName = ""; // toekomstige uitbreiding naam speler opvragen
   resultBox.style.display = "none"; // verberg de resultbox
-  quizTitle.innerHTML = quiz.quizMetaData.title;
+  quizTitle.innerHTML= quiz.quizMetaData.title;
   prepareQuestions(); // start de quiz
 }
 
@@ -76,7 +76,7 @@ function finishQuiz() {
   questionBox.style.display = "none";
   resultBox.style.display = "block";
   quizWrapper.style.backgroundImage = "";
-  quizWrapper.style.background = "";
+  quizWrapper.style.background = "white";
   resultBox.innerHTML = "<h1>Your results:<br> Correct answers:" + playerData.goodAnswers + "<br>Wrong answers:" + playerData.wrongAnswers + "</h1>";
 }
 
